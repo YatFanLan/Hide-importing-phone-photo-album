@@ -1,4 +1,9 @@
-/*隐藏文件侧边栏下方的导入手机相册功能 */
+/*YatFanLan
+@name           Hide importing phone photo album
+@description 隐藏文件侧边栏下方的导入手机相册功能
+@homepageURL    https://github.com/YatFanLan/Hide-importing-phone-photo-album
+
+YatFanLan*/
 .wifiphoto-content {
   display: none; /* 或者 */
   visibility: hidden; /* 或者 */
