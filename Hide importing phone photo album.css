@@ -4,9 +4,9 @@
 @homepageURL    https://github.com/YatFanLan/Hide-importing-phone-photo-album
 
 YatFanLan*/
-.wifiphoto-content {
-  display: none; /* 或者 */
-  visibility: hidden; /* 或者 */
+.wifiphoto-btn {
+  display: none; / 或者 /
+  visibility: hidden; / 或者 */
   opacity: 0;
   pointer-events: none;
 }
